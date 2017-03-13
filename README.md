@@ -17,4 +17,21 @@
 3. 代码质量良好
 4. 网站页面美观
 
+
+
+
+### 第一次课程
+
+推荐的IDE 编辑器
+
+[Atom](https://atom.io)  
+[webstorm](https://www.jetbrains.com/webstorm/)  
+[sublime](https://www.sublimetext.com)
+
+推荐的自学网站  
+[MDN](https://developer.mozilla.org/zh-CN/)  
+[w3school](http://www.w3school.com.cn)  
+[阮一峰-ES6](http://es6.ruanyifeng.com)
+
+
 #### 后续我会慢慢添加的。。。。。
