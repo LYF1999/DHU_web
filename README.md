@@ -22,8 +22,8 @@
 
 ### 第一次课程
 
-推荐的IDE 编辑器
-
+推荐的IDE 编辑器  
+[vsocde](https://code.visualstudio.com)  
 [Atom](https://atom.io)  
 [webstorm](https://www.jetbrains.com/webstorm/)  
 [sublime](https://www.sublimetext.com)
